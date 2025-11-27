@@ -1,0 +1,8 @@
+azure-ai-ml
+azure-identity
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+seaborn
