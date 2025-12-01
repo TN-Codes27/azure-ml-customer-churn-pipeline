@@ -19,10 +19,10 @@ azure-ml-customer-churn-pipeline/
 │   └── processed/         
 │
 ├── src/
-│   ├── data_prep/         # Preprocessing scripts
-│   ├── train/             # Training scripts
-│   ├── evaluate/          # Evaluation scripts
-│   ├── score/             # Scoring / inference scripts
+│   ├── data_prep/         
+│   ├── train/             
+│   ├── evaluate/          
+│   ├── score/            
 │
 ├── pipelines/
 │
